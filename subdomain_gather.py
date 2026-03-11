@@ -15,8 +15,8 @@ init(autoreset=True)
 # ============================================================
 #  API KEYS
 # ============================================================
-VT_API_KEY    = "***VT_KEY_REMOVED***"
-GITHUB_TOKEN  = "***GH_TOKEN_REMOVED***"
+# VT_API_KEY    = "Uncomment and Add your VirusTotal API key here"
+# GITHUB_TOKEN  = "Uncomment and add your Github Token here"
 # ============================================================
 
 LOGO = r"""
